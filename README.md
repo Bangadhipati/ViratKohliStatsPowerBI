@@ -24,7 +24,7 @@ The data for this analysis was sourced from reputable cricket statistics databas
 
 Here are a few visualizations from our analysis:
 
-![Visualization 1]([link-to-image-1](https://1drv.ms/i/c/c8bbdb179bdd293f/Ediyb1Kbl59EgQa2pkKEQa8BG_tSrWtZ62B9zfmJucAYBQ?e=pR1bEN))
+![PowerBI Project 1](https://github.com/Bangadhipati/ViratKohliStatsPowerBI/assets/145965448/f747c040-fae4-416c-a008-44e7af8e7950)
 
 ## How to Use
 
