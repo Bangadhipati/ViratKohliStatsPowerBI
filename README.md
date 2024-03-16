@@ -1,7 +1,5 @@
 # Virat Kohli Statistics Analysis with Power BI
 
-![Virat Kohli](link-to-image)
-
 Welcome to the Virat Kohli Statistics Analysis project! This Power BI project aims to analyze and visualize the cricket statistics of Virat Kohli, one of the most prolific batsmen in the world.
 
 ## Project Overview
